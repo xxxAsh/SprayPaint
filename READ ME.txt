@@ -1,0 +1,18 @@
+Program not working? Read below!
+
+1: Download latest python version: https://www.python.org/downloads/
+
+2: Run the installer and during installation make sure to tick "Add python 3.10 to PATH"
+
+3: install pillow with the command "pip install pillow" in CMD (search for command prompt in windows)
+
+4: install tkinker with the command "pip install tkinter" in CMD (search for command prompt in windows)
+
+5: done!
+
+
+
+any issues feel free to message me on discord or forums: 
+
+ca#6373 
+https://forum.superiorservers.co/profile/2223-cruel_ashes/
